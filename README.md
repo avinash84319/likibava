@@ -1,2 +1,0 @@
-# dammm
-personal website
