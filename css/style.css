@@ -1,0 +1,14 @@
+table {
+    empty-cells: 20 px;
+} 
+hr {
+     border-style : dashed ;
+     border-color: rgb(225, 39, 39);
+     width: 1000%;
+     height: 0.1%;
+      
+ }
+p{
+ text-align: center;
+ font-size:1.2cm ;
+}
