@@ -2,13 +2,32 @@ table {
     empty-cells: 20 px;
 } 
 hr {
-     border-style : dashed ;
-     border-color: rgb(225, 39, 39);
-     width: 1000%;
+     border-style: groove;
+     border-color: rgb(5, 5, 5);
+     width: 20px;;
      height: 0.1%;
       
  }
-p{
+.main{
  text-align: center;
  font-size:1.2cm ;
+ font-family:Montserrat;
+}
+p{
+    text-align:left;
+    font: size 0.5em; ;
+    font-family:Montserrat;
+   }
+td{
+    text-align:left;
+    font: size 0.1em; ;
+    font-family:Montserrat;
+}
+div{
+    background-color: aqua;
+    
+}
+.bodyg{
+    background-color: rgb(234, 204, 222);
+    
 }
