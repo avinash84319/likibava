@@ -2,36 +2,46 @@ table {
     empty-cells: 20 px;
 } 
 hr {
-     border-style: groove;
+     border-style: dashed;
      border-color: rgb(5, 5, 5);
-     width: 20px;;
+     width: 600px;;
      height: 0.1%;
       
  }
-.main{
- text-align: center;
- font-size:1.2cm ;
- font-family:Montserrat;
-}
+
 p{
     text-align:left;
     font: size 0.5em; ;
     font-family:Montserrat;
    }
+.main{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:50px;
+    position:relative;
+    bottom: 65px;
+}
 td{
     text-align:left;
     font: size 0.1em; ;
     font-family:Montserrat;
 }
-div{
+.res{
+    
     padding: 20px;
     background-color: aqua;
+    border-width:5px;
+    border-style: groove;
+    border-color: black;
+    height: 20px;
+    
     
 }
 .bodyg{
     background-color: rgb(234, 204, 222);
     padding: 20px;
     margin: 20px;
-    border-style: groove;
+    border-style: dashed;
     border-color: black;
+   
+    
 }
