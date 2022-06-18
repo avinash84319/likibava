@@ -24,10 +24,14 @@ td{
     font-family:Montserrat;
 }
 div{
+    padding: 20px;
     background-color: aqua;
     
 }
 .bodyg{
     background-color: rgb(234, 204, 222);
-    
+    padding: 20px;
+    margin: 20px;
+    border-style: groove;
+    border-color: black;
 }
