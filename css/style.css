@@ -15,7 +15,7 @@ hr {
 p{
     text-align:left;
     font: size 0.5em; ;
-    font-family:Montserrat;
+    font-family: 'MONTSERRAT', 'Arial Narrow', Arial, sans-serif;
    }
 .main{
     font-family: 'Courier New', Courier, monospace;
@@ -64,7 +64,7 @@ td{
 }
 .conc{
     background-color: rgb(18, 4, 37);
-    padding: 100px;
+    padding: 1000px;
     margin: 0px;
     border-style: dashed;
     border-color: black;
